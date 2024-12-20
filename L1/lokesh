@@ -1,0 +1,7 @@
+Git add file name -- the file to add into the git
+git add * -- to add all the files at a time
+git status -- to check the status 
+git commit -m "..." file name - to commit the data
+git log -- this is used to see the history of the commits
+
+git branch - to check the current branch
